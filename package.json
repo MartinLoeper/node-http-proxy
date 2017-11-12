@@ -1,5 +1,5 @@
 {
-  "name": "@martinloeper/http-proxy",
+  "name": "nesto-http-proxy",
   "version": "10.0.0",
   "repository": {
     "type": "git",
