@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy",
+  "name": "@martinloeper/http-proxy",
   "version": "1.16.2",
   "repository": {
     "type": "git",
